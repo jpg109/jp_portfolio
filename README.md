@@ -29,5 +29,7 @@ SQL Data Cleaning – Layoff.sql: Run in your SQL editor for data preparation.
 SQL Data Exploratory – Layoff.sql: Run in your SQL editor to replicate analysis and insights.
 
 -- Technologies Used
+
 SQL: MySQL for data cleaning and exploratory analysis.
+
 Excel: Advanced functions, pivot tables, and dashboards.
